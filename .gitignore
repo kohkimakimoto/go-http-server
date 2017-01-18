@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+.tags*
+._*
+*.iml
+/vendor
+.vagrant
+Vagrantfile
+go-http-server
+go-http-server-dawin
+go-http-server-linux
+
+!.gitkeep
