@@ -23,7 +23,7 @@ func main() {
 Simple http server to deliver static files.
 
 Options:
-  -a, --addr <ADDRESS>     Specify listen address (default '127.0.0.0:8080')
+  -a, --addr <ADDRESS>     Specify listen address (default '127.0.0.1:8080')
   -d, --doc-root <PATH>    Specify the document root.
   -h, -help                Show help
 `)
